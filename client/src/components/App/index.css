@@ -1,0 +1,16 @@
+h1 {
+  padding: 20px 0;
+  color: #0a0a64;
+}
+.div-container {
+  display: flex;
+  justify-content: center;
+}
+.div-container input {
+  margin-right: 10px;
+}
+.div-cep {
+  font-size: 20px;
+  display: flex;
+  color: #0a0a64;
+}

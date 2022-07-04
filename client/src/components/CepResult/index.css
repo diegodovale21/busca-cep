@@ -1,0 +1,15 @@
+.list h5 {
+  color: #0a0a64;
+  background-color: white;
+}
+.list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.list span {
+  display: flex;
+  color: #0a0a64;
+  background-color: white;
+  font-size: 20px;
+}
